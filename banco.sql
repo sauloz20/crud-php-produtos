@@ -11,3 +11,4 @@ CREATE TABLE IF NOT EXISTS produtos (
     ano INT NOT NULL,
     status ENUM('Ativo', 'Inativo') NOT NULL DEFAULT 'Ativo',
     criado_em TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);

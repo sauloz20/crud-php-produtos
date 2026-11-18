@@ -32,7 +32,7 @@ $flash = obterFlash();
 
     <title>Listar produtos</title>
 
-    <link rel="stylesheet" href="css/estilo.css">
+    <link rel="stylesheet" href="CSS/estilo.css">
 
 </head>
 
