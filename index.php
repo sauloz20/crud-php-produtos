@@ -9,7 +9,7 @@ $flash = obterFlash();
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CRUD de Produtos</title>
-    <link rel="stylesheet" href="css/estilo.css">
+    <link rel="stylesheet" href="CSS/estilo.css">
 </head>
 <body>
 <header class="topo"><div class="container"><h1>CRUD de Produtos</h1><nav><a href="index.php">Início</a><a href="cadastro.php">Cadastrar</a><a href="listar.php">Listar produtos</a></nav></div></header>

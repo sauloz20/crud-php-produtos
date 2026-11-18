@@ -78,7 +78,7 @@ unset($_SESSION['formulario']);
 
     <link
         rel="stylesheet"
-        href="css/estilo.css"
+        href="CSS/estilo.css"
     >
 
 </head>
